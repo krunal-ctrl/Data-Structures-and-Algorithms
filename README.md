@@ -1,2 +1,2 @@
 # Data-Structures-and-Algorithms
-University of California San Diego
+By University of California San Diego
